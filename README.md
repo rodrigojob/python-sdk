@@ -2,6 +2,9 @@
 
 This is the official Python SDK for MercadoLibre's Platform.
 
+## First Step: To know our API Docs 
+       https://developers.mercadolibre.com
+
 ## How do I install it?
 
        clone repository
